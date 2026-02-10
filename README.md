@@ -1,5 +1,7 @@
 # Message Boombing (safe, improved)
 
+[![CI](https://github.com/SagarBiswas-MultiHAT/TextBombing-Toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/SagarBiswas-MultiHAT/TextBombing-Toolkit/actions) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 >A small, interactive Python utility for sending repeated messages using your keyboard. This project is intentionally conservative and includes safety features so you can use it responsibly.
 
 ## Project summary
@@ -99,7 +101,7 @@ Please include a short description of changes and attach any relevant screenshot
 
 ## License
 
-This project has no license specified. Add a `LICENSE` file if you want to grant reuse rights.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## A final note
 

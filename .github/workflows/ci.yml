@@ -2,6 +2,36 @@ name: CI
 
 on:
   push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  syntax-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Run syntax check
+        shell: bash
+        run: |
+          files=$(git ls-files '*.py' || true)
+          if [ -z "$files" ]; then
+            echo "No Python files found"
+            exit 0
+          fi
+          echo "Checking Python syntax for: $files"
+          python -m py_compile $files
+name: CI
+
+on:
+  push:
     branches: [ "**" ]
   pull_request:
     branches: [ "**" ]
