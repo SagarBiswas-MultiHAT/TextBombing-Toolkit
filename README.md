@@ -1,6 +1,10 @@
 # Message Boombing (safe, improved)
 
+<div align="right">
+
 [![CI](https://github.com/SagarBiswas-MultiHAT/TextBombing-Toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/SagarBiswas-MultiHAT/TextBombing-Toolkit/actions) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+</div>
 
 >A small, interactive Python utility for sending repeated messages using your keyboard. This project is intentionally conservative and includes safety features so you can use it responsibly.
 
