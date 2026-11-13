@@ -2,7 +2,7 @@
 
 <div align="right">
 
-[![CI](https://github.com/SagarBiswas-MultiHAT/TextBombing-Toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/SagarBiswas-MultiHAT/TextBombing-Toolkit/actions) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![CI](https://github.com/SagarBiswas-MultiHAT/TextBombing-Toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/SagarBiswas-MultiHAT/TextBombing-Toolkit/actions) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Sponsor SagarBiswas-MultiHAT on Polar.sh](https://img.shields.io/badge/Sponsor-Polar.sh-0062FF?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://buy.polar.sh/polar_cl_I7DT5UQNUs1Qjb4VrFYOiRA2nkb3RVVUJCnjr3o5SGK)
 
 </div>
 
@@ -102,6 +102,16 @@ Contributions are welcome. Suggested workflow:
 4. Open a pull request.
 
 Please include a short description of changes and attach any relevant screenshots or logs if behavior changed.
+
+## Support MultiHAT Open-Source
+
+If you find this project useful in your workflow, development, or security research, consider supporting **SagarBiswas-MultiHAT** in its ongoing maintenance and future updates (supports both One-Time and Monthly backing):
+
+[![Support on Polar.sh](https://img.shields.io/badge/Support%20on-Polar.sh-0062FF?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://buy.polar.sh/polar_cl_I7DT5UQNUs1Qjb4VrFYOiRA2nkb3RVVUJCnjr3o5SGK)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-sagarbiswas.multihat.dev-2563EB?style=for-the-badge&logo=todoist&logoColor=white)](https://sagarbiswas.multihat.dev/)
+&nbsp;
+[![Agency](https://img.shields.io/badge/Agency-multihat.dev-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://multihat.dev)
 
 ## License
 
